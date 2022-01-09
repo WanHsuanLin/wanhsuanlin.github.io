@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wan-Hsuan Lin"
 title_separator          : "-"
 name                     : &name "Wan-Hsuan Lin"
-description              : &description "PhD student at UCLA"
+description              : &description "Ph.D. student at UCLA"
 url                      : https://wanhsuanlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wanhsuanlin.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wan-Hsuan Lin"
-  avatar           : "profile.png"
+  avatar           : "IMG_9871.png"
   bio              : "Ph.D. student at UCLA Computer Science Department"
   location         : "Los Angeles, CA"
   employer         :
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100000367830498"
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/wan-hsuan-lin-3aa669204"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
