@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, National Taiwan University, 2021
-* Ph.D in Computer Science, University of California, Los Angeles, 2027 (expected)
+* Ph.D in Computer Science, University of California, Los Angeles, Now
 
 <!-- Work experience
 ======
