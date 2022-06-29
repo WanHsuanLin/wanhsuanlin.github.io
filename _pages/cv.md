@@ -31,11 +31,13 @@ Education
 Skills
 ======
 * Programming languages
-  * C/C++, Python, Verilog
-* Quantum Programming
+  * C/C++, Python, Verilog, Matlab
+* Deep Learning Toolkits 
+  * Pytorch, Tensorflow
+* Quantum Programming Toolkits
   * Qiskit, Cirq
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -53,6 +55,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->

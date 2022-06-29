@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Selected Projects"
+permalink: /selected_projects/
+author_profile: true
+---
+
+{% endif %}
+
+{% for post in site.selected_projects reversed %}
+  {% include archive-single-selected_projects.html %}
+{% endfor %}
