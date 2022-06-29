@@ -2,7 +2,7 @@
 title: "Sequence-to-Sequence : Video Caption Generation "
 collection: ML-related
 type: "ML-related"
-permalink: /talks/s2s
+permalink: /selected_projects/s2s
 venue: "Speech Processing and Machine Learning Lab (Prof. Hung-yi Lee)"
 date: 2018-09
 location: "National Taiwan University, Taiwan"

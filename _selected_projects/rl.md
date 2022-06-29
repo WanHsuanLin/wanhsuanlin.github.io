@@ -1,19 +1,15 @@
 ---
-title: "Cycle GAN : Style Transform"
+title: "Reinforcement Learning : Agent to Play Atari Games"
 collection: ML-related
 type: "ML-related"
-permalink: /selected_projects/cgan
+permalink: /selected_projects/rl
 venue: "Speech Processing and Machine Learning Lab (Prof. Hung-yi Lee)"
-date: 2018-10
+date: 2018-12
 location: "National Taiwan University, Taiwan"
 ---
 
 <!-- [More information here]() -->
-Implemented cycle GAN to transform picture to desired drawing style.
-
-
-
-
+Implemented an agent to play Atari games using deep reinforcement learning.
 
 
 
