@@ -32,6 +32,8 @@ Skills
 ======
 * Programming languages
   * C/C++, Python, Verilog
+* Quantum Programming
+  * Qiskit, Cirq
 
 <!-- Publications
 ======
