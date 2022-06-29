@@ -27,7 +27,14 @@ Education
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
-  
+
+Honors & Awards
+======
+* Top 10 - *2021 IEEE/ACM ICCAD CAD Contest - Problem B*
+* College Student Research Creativity Award - *2021 Ministry of Science and Technology*
+* College Student Research Scholarship - *2020 Ministry of Science and Technology*
+* Macronix Science Scholarship - *2018 Macronix Education Foundation*
+
 Skills
 ======
 * Programming languages
