@@ -16,17 +16,15 @@ Education
 * B.S. in Electrical Engineering, National Taiwan University, 2021
 * Ph.D in Computer Science, University of California, Los Angeles, Now
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun. 2019 - Nov. 2021: Undergraduate Research Student
+  * National Taiwan University
+  * Supervisor: Professor Jie-Hong R. Jiang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+* Feb. 2020 - Oct. 2021: Undergraduate Research Student
+  * National Taiwan University
+  * Supervisor: Professor Yao-Wen Chang
 
 Honors & Awards
 ======
