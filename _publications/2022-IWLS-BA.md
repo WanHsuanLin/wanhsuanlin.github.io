@@ -1,5 +1,5 @@
 ---
-title: "Language Equation Solving via BooleanAutomata Manipulation"
+title: "Language Equation Solving via Boolean Automata Manipulation"
 collection: publications
 permalink: /publication/2022-TCAD-Qroute
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
