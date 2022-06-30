@@ -1,8 +1,8 @@
 ---
 title: "A Bridge-based Compression Algorithm for Topological Quantum Circuits [DAC 2021] [TCAD 2022]"
-collection: EDA-related
-type: "EDA-related"
-permalink: /selected_projects/btree
+collection: Quantum-related
+type: "Quantum-related"
+permalink: /selected_projects/bridge
 venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11
 location: "National Taiwan University, Taiwan"

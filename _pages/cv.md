@@ -14,17 +14,21 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, National Taiwan University, 2021
-* Ph.D in Computer Science, University of California, Los Angeles, Now
+* Ph.D in Computer Science, University of California, Los Angeles, Present
 
 Work experience
 ======
-* Jun. 2019 - Nov. 2021: Undergraduate Research Student
+* Jan. 2022 - Present: Graduate Student Researcher
   * National Taiwan University
-  * Supervisor: Professor Jie-Hong R. Jiang
+  * Adivisor: Professor Jason Cong
+
+* Jun. 2019 - Nov. 2021: Undergraduate Research Student
+  * University of California, Los Angeles
+  * Adivisor: Professor Jie-Hong R. Jiang
 
 * Feb. 2020 - Oct. 2021: Undergraduate Research Student
   * National Taiwan University
-  * Supervisor: Professor Yao-Wen Chang
+  * Adivisor: Professor Yao-Wen Chang
 
 Honors & Awards
 ======
