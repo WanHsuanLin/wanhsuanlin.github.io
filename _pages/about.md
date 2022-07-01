@@ -66,7 +66,11 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+## Projects
+  <ul>{% for post in site.projects %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
   
 <!-- Service and leadership
