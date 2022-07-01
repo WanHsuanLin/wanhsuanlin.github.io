@@ -24,16 +24,20 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 ## Work experience
 ---
 * Jan. 2022 - Present: Graduate Student Researcher
-  * National Taiwan University
+  * VAST Lab, University of California, Los Angeles
   * Adivisor: Professor Jason Cong
 
 * Jun. 2019 - Nov. 2021: Undergraduate Research Student
-  * University of California, Los Angeles
+  * ALComb Lab, National Taiwan University
   * Adivisor: Professor Jie-Hong R. Jiang
 
 * Feb. 2020 - Oct. 2021: Undergraduate Research Student
-  * National Taiwan University
+  * EDA Lab, National Taiwan University
   * Adivisor: Professor Yao-Wen Chang
+
+* Sep. 2018 - Jan. 2019: Undergraduate Research Student
+  * Speech Processing and Machine Learning Lab, National Taiwan University
+  * Adivisor: Professor Hung-yi Lee
 
 ## Honors & Awards
 ---
