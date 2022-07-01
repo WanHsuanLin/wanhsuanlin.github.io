@@ -17,12 +17,10 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 <!-- [PDF](/files/CHENCHIA_CV.pdf){: .btn} -->
 
 ## Education
----
 * B.S. in Electrical Engineering, National Taiwan University, 2021
 * Ph.D in Computer Science, University of California, Los Angeles, Present
 
 ## Work experience
----
 * Jan. 2022 - Present: Graduate Student Researcher
   * VAST Lab, University of California, Los Angeles
   * Adivisor: Professor Jason Cong
@@ -40,26 +38,22 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
   * Adivisor: Professor Hung-yi Lee
 
 ## Honors & Awards
----
 * Top 10 - *2021 IEEE/ACM ICCAD CAD Contest - Problem B*
 * College Student Research Creativity Award - *2021 Ministry of Science and Technology*
 * College Student Research Scholarship - *2020 Ministry of Science and Technology*
 * Macronix Science Scholarship - *2018 Macronix Education Foundation*
 
 ## Publications
----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Teaching
----
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Skills
----
 * Programming languages
   * C/C++, Python, Verilog, Matlab
 * Deep Learning Toolkits 
@@ -69,7 +63,6 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 
 
 ## Talks
----
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
