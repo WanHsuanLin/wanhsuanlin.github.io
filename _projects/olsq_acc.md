@@ -1,8 +1,8 @@
 ---
-title: "Domain-Specific Quantum Architecture Optimization"
+title: "OLSQ Acceleration"
 collection: Quantum-related
 type: "Quantum-related"
-permalink: /selected_projects/dsqao
+permalink: /projects/olsqacc
 venue: "VAST Lab (Prof. Jason Cong)"
 date: 2022-11
 location: "University of California, Los Angeles"

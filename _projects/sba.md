@@ -2,7 +2,7 @@
 title: "String Manipulation via Boolean Automata [College Student Research Creativity Award]"
 collection: EDA-related
 type: "EDA-related"
-permalink: /selected_projects/sba
+permalink: /projects/sba
 venue: "Applied Logic and Computation Lab (Prof. Jie-Hong R. Jiang)"
 date: 2020-01
 location: "National Taiwan University, Taiwan"

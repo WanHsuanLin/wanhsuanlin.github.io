@@ -2,7 +2,7 @@
 title: "Global Routing with Cell Movement [Top 10]"
 collection: EDA-related
 type: "EDA-related"
-permalink: /selected_projects/CMRouter
+permalink: /projects/CMRouter
 venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2021-09
 location: "National Taiwan University, Taiwan"

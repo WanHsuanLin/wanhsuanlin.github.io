@@ -2,7 +2,7 @@
 title: "B*-Floorplan & FM-Partition"
 collection: EDA-related
 type: "EDA-related"
-permalink: /selected_projects/btree
+permalink: /projects/btree
 venue: "Physical Design for Nanometer Ics (Prof. Yao-Wen Chang)"
 date: 2020-04
 location: "National Taiwan University, Taiwan"
