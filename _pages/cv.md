@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- [PDF](/files/CHENCHIA_CV.pdf){: .btn} -->
 
-## Education
+<!-- ## Education
 ---
 * B.S. in Electrical Engineering, National Taiwan University, 2021
 * Ph.D in Computer Science, University of California, Los Angeles, Present
@@ -69,4 +69,4 @@ redirect_from:
   
 <!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams --> -->

@@ -4,7 +4,7 @@ collection: Quantum-related
 type: "Quantum-related"
 permalink: /projects/dsqao
 venue: "VAST Lab (Prof. Jason Cong)"
-date: 2022-11
+date: 2022-11-01
 location: "University of California, Los Angeles"
 ---
 

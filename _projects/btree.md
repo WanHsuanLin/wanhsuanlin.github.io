@@ -4,7 +4,7 @@ collection: EDA-related
 type: "EDA-related"
 permalink: /projects/btree
 venue: "Physical Design for Nanometer Ics (Prof. Yao-Wen Chang)"
-date: 2020-04
+date: 2020-04-01
 location: "National Taiwan University, Taiwan"
 ---
 

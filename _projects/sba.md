@@ -4,7 +4,7 @@ collection: EDA-related
 type: "EDA-related"
 permalink: /projects/sba
 venue: "Applied Logic and Computation Lab (Prof. Jie-Hong R. Jiang)"
-date: 2020-01
+date: 2020-01-01
 location: "National Taiwan University, Taiwan"
 ---
 

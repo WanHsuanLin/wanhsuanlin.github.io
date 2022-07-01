@@ -4,7 +4,7 @@ collection: Quantum-related
 type: "Quantum-related"
 permalink: /projects/bridge
 venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
-date: 2019-11
+date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 ---
 

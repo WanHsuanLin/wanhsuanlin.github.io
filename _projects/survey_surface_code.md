@@ -4,7 +4,7 @@ collection: Quantum-related
 type: "Quantum-related"
 permalink: /projects/survey_surface_code
 venue: "Quantum Information and Computation (Prof. Hao-Chung Cheng)"
-date: 2021-06
+date: 2021-06-01
 location: "National Taiwan University, Taiwan"
 ---
 

@@ -4,7 +4,7 @@ collection: ML-related
 type: "ML-related"
 permalink: /projects/cgan
 venue: "Speech Processing and Machine Learning Lab (Prof. Hung-yi Lee)"
-date: 2018-10
+date: 2018-10-01
 location: "National Taiwan University, Taiwan"
 ---
 
