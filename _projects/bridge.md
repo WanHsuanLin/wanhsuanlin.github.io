@@ -7,7 +7,7 @@ toc: true
 tags:
   - National Taiwan University, Taiwan
   - Electronic Design Automation Lab (Prof. Yao-Wen Chang)
-  - Quantum-related
+  - Quantum
 ---
 
 
