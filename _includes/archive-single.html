@@ -45,7 +45,7 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
       <p>Author: <i>{{ post.author }}</i>
-      <br/>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <br/>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
         <blockquote>
@@ -57,7 +57,6 @@
       {% endif %}
       
       <!-- icon code -->
-      <p>
       <br>
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
