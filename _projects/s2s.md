@@ -21,6 +21,6 @@ location: "National Taiwan University, Taiwan" -->
 
 <!-- [More information here]() -->
 * Implement sequence-to-sequence based model to generate the corresponding caption that depicts the video.
-
+<!--more-->
 
 

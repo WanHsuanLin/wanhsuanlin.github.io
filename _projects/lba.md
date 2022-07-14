@@ -23,6 +23,7 @@ location: "National Taiwan University, Taiwan"
 
 * Solve syncornous composition synthesis via reversed Boolean automata and reversed alternating Boolean automata
 <!--more-->
+
 <!-- [More information here]() -->
 Language equations are a powerful tool for compositional synthesis, modeled as the unknown component problem.
 Given a (sequential) system specification $S$ and a fixed component $F$, we are asked to synthesize an unknown component $X$ such that whose composition with $F$ fulfills $S$.
