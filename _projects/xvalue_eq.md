@@ -10,7 +10,7 @@ tags:
   - EDA
 ---
 
-
+* Check compatative equivalence for two circuits with X-value logic
 <!-- ---
 title: "X-value Equivalence Checking [ICCAD 2021]"
 collection: EDA-related

@@ -10,6 +10,8 @@ tags:
   - Quantum
 ---
 
+* Survey encoding methods and optimization algorithms for fault-tolerant circuits under surface code scheme.
+
 <!-- ---
 title: "A Survey of Surface Code and Fault-Tolerant Quantum Circuit Optimization"
 collection: Quantum-related
@@ -21,6 +23,3 @@ location: "National Taiwan University, Taiwan"
 --- -->
 
 <!-- [More information here]() -->
-Surveyed encoding methods and optimization algorithms for fault-tolerant circuits under surface code scheme.
-
-

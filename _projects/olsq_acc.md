@@ -22,3 +22,5 @@ location: "University of California, Los Angeles"
 --- -->
 
 <!-- [More information here]() -->
+
+* Accelerate SMT-based circuit synthesizer using different encoding

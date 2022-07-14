@@ -20,7 +20,7 @@ location: "National Taiwan University, Taiwan" -->
 ---
 
 <!-- [More information here]() -->
-Implemented sequence-to-sequence based model to generate the corresponding caption that depicts the video.
+* Implement sequence-to-sequence based model to generate the corresponding caption that depicts the video.
 
 
 

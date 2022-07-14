@@ -22,7 +22,7 @@ location: "National Taiwan University, Taiwan"
 --- -->
 
 <!-- [More information here]() -->
-Implemented an agent to play Atari games using deep reinforcement learning.
+* Implement an agent to play Atari games using deep reinforcement learning.
 
 
 

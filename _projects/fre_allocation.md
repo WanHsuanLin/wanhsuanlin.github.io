@@ -21,3 +21,5 @@ location: "University of California, Los Angeles"
 --- -->
 
 <!-- [More information here]() -->
+
+* Optimize qubit and gate frequencies by an SMT solver.

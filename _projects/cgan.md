@@ -22,7 +22,7 @@ location: "National Taiwan University, Taiwan"
 --- -->
 
 <!-- [More information here]() -->
-Implemented cycle GAN to transform picture to desired drawing style.
+* Implement cycle GAN to transform picture to desired drawing style.
 
 
 

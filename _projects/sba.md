@@ -10,6 +10,8 @@ tags:
   - EDA
 ---
 
+* Perform regular language operations via Boolean automata representation
+
 <!-- --- -->
 <!-- title: "String Manipulation via Boolean Automata [College Student Research Creativity Award]"
 collection: EDA-related
