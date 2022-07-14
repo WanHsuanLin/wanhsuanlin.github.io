@@ -49,7 +49,7 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
   * **Wan-Hsuan Lin**, Chia-Hsuan Su, and Jie-Hong Roland Jiang, "Language Equation Solving via Boolean Automata Manipulation," *International Workshop on Logic & Synthesis (IWLS)*, 2022.
   * Wei-Hsiang Tseng, Chen-Hao Hsu, **Wan-Hsuan Lin**, and Yao-Wen Chang, "A Bridge-based Compression Algorithm for Topological Quantum Circuits," *IEEE Transactions on Computer-Aided Design of Integrated Circuits ans Systems (TCAD)*, 2022.
   * Chen-Hao Hsu, **Wan-Hsuan Lin**, Wei-Hsiang Tseng, and Yao-Wen Chang, "A Bridge-based Compression Algorithm for Topological Quantum Circuits," *Proceedings of ACM/IEEE Design Automation Conference (DAC)*, 2021.
-  * Yu-Neng Wang, Yun-Rong Luo, Po-Chun Chien, Ping-Lun Wang, Hao-Ren Wang, **Wan-Hsuan Lin**, "Compatible Equivalence Checking of X-Valued Circuits," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2021.
+  * Yu-Neng Wang, Yun-Rong Luo, Po-Chun Chien, Ping-Lun Wang, Hao-Ren Wang, **Wan-Hsuan Lin**, "Compatible Equivalence Checking of X-Valued Circuits," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2021. <a href="{{ https://ieeexplore.ieee.org/abstract/document/9586322 }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
 ## Teaching
   <ul>{% for post in site.teaching %}
