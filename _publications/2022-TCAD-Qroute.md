@@ -6,8 +6,7 @@ permalink: /publication/2022-TCAD-Qroute
 author: 'Wei-Hsiang Tseng, Chen-Hao Hsu, Wan-Hsuan Lin*, and Yao-Wen Chang'
 date: 2022-03-23
 venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits ans Systems (TCAD)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9740171'
+link: 'https://ieeexplore.ieee.org/abstract/document/9740171'
+paperurl: 'http://wanhsuanlin.github.io/files/TCADQRoute.pdf'
 ---
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](http://wanhsuanlin.github.io/files/TCADQRoute.pdf)
