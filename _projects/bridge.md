@@ -1,7 +1,7 @@
 ---
 title: "A Bridge-based Compression Algorithm for Topological Quantum Circuits [DAC 2021] [TCAD 2022]"
 date: 2019-11-01
-permalink: /posts/2020/01/counting-words/
+permalink: /projects/bridge
 excerpt_separator: <!--more-->
 toc: true
 tags:

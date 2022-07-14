@@ -1,7 +1,7 @@
 ---
 title: "Cycle GAN : Style Transform"
 date: 2018-10-01
-permalink: /posts/2020/01/counting-words/
+permalink: /projects/cgan
 excerpt_separator: <!--more-->
 toc: true
 tags:

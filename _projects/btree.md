@@ -1,7 +1,7 @@
 ---
 title: "B*-Floorplan & FM-Partition"
 date: 2020-04-01
-permalink: /posts/2020/01/counting-words/
+permalink: /projects/btree
 excerpt_separator: <!--more-->
 toc: true
 tags:
