@@ -1,5 +1,5 @@
 ---
-title: "Language Equation Solving via Reversed Boolean Automata representation [IWLS 2022]"
+title: "Language Equation Solving via Reversed Boolean Automata representation [IWLS 2022][ICCAD 2022]"
 collection: EDA-related
 type: "EDA-related"
 permalink: /projects/lba
