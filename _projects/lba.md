@@ -1,5 +1,18 @@
 ---
 title: "Language Equation Solving via Reversed Boolean Automata representation [IWLS 2022][ICCAD 2022]"
+date: 2021-11-01
+permalink: /projects/lba
+excerpt_separator: <!--more-->
+toc: true
+tags:
+  - National Taiwan University, Taiwan
+  - Applied Logic and Computation Lab (Prof. Jie-Hong R. Jiang)
+  - EDA
+---
+
+
+---
+title: "Language Equation Solving via Reversed Boolean Automata representation [IWLS 2022][ICCAD 2022]"
 collection: EDA-related
 type: "EDA-related"
 permalink: /projects/lba

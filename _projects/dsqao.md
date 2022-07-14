@@ -1,6 +1,6 @@
 ---
 title: "Domain-Specific Quantum Architecture Optimization"
-date: 2022-11-01
+date: 2022-05-01
 permalink: /projects/dsqao
 excerpt_separator: <!--more-->
 toc: true
