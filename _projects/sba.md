@@ -11,7 +11,7 @@ tags:
 ---
 
 * Perform regular language operations via Boolean automata representation
-
+<!--more-->
 <!-- --- -->
 <!-- title: "String Manipulation via Boolean Automata [College Student Research Creativity Award]"
 collection: EDA-related

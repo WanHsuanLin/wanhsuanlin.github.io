@@ -11,7 +11,7 @@ tags:
 ---
 
 * Survey encoding methods and optimization algorithms for fault-tolerant circuits under surface code scheme.
-
+<!--more-->
 <!-- ---
 title: "A Survey of Surface Code and Fault-Tolerant Quantum Circuit Optimization"
 collection: Quantum-related

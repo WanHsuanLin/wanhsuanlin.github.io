@@ -23,5 +23,6 @@ location: "National Taiwan University, Taiwan"
 
 <!-- [More information here]() -->
 * Proposed a global routing engine with capacity to do cell movement on 2020 and 2021 CAD Contest benchmarks.
-* Implemented a complete global routing flow and simultaneous routing and placement refinement.
+* Implement a complete global routing flow and simultaneous routing and placement refinement.
+<!--more-->
 
