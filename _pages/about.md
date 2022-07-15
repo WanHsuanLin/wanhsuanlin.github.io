@@ -72,7 +72,7 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 ## Projects
   <ul>{% for post in site.projects %}
     <!-- {% include archive-single.html %} -->
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
   {% endfor %}</ul>
 
   
