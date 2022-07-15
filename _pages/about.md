@@ -72,7 +72,11 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 ## Projects
   <ul>{% for post in site.projects %}
     <!-- {% include archive-single.html %} -->
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    {% if post.link %}
+      <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+    {% else %}
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    {% endif %}
   {% endfor %}</ul>
 
   
