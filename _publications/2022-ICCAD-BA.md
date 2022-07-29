@@ -1,7 +1,7 @@
 ---
-title: "Language Equation Solving via Boolean Automata Manipulation"
+title: "Language Equation Solving via Boolean Automata Manipulation [Best paper nomination]"
 collection: publications
-permalink: /publication/2022-IWLS-BA
+permalink: /publication/2022-ICCAD-BA
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 author: 'Wan-Hsuan Lin*, Chia-Hsuan Su, and Jie-Hong Roland Jiang'
 date: 2022-11-01
