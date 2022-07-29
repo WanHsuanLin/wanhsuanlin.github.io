@@ -1,5 +1,5 @@
 ---
-title: "Domain-Specific Quantum Architecture Optimization"
+title: "Frequency Optimization for Quantum Computer"
 date: 2022-07-01
 permalink: /projects/fre_allocation
 excerpt_separator: <!--more-->
