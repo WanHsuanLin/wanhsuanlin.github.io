@@ -44,7 +44,8 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 * Macronix Science Scholarship - *2018 Macronix Education Foundation*
 
 ## Publications
-  * **Wan-Hsuan Lin**, Bochen Tan, Murphy Yuezhen Niu, Jason Kimko, and Jason Cong, " “Domain-Specific Quantum Architecture Optimization," submitted to *Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2022
+  * **Wan-Hsuan Lin**, Jason Kimko, Bochen Tan, Nikolaj Bjorner, and Jason Cong, " “Scalable Optimal Layout Synthesis for NISQ Quantum Processors," *Proceedings of ACM/IEEE Design Automation Conference (DAC)*, 2023
+  * **Wan-Hsuan Lin**, Bochen Tan, Murphy Yuezhen Niu, Jason Kimko, and Jason Cong, " “Domain-Specific Quantum Architecture Optimization," *Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2022
   * **Wan-Hsuan Lin**, Chia-Hsuan Su, and Jie-Hong Roland Jiang, "Language Equation Solving via Boolean Automata Manipulation," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022
   * **Wan-Hsuan Lin**, Chia-Hsuan Su, and Jie-Hong Roland Jiang, "Language Equation Solving via Boolean Automata Manipulation," *International Workshop on Logic & Synthesis (IWLS)*, 2022. ***[Best Paper Nomination]***
   * Wei-Hsiang Tseng, Chen-Hao Hsu, **Wan-Hsuan Lin**, and Yao-Wen Chang, "A Bridge-based Compression Algorithm for Topological Quantum Circuits," *IEEE Transactions on Computer-Aided Design of Integrated Circuits ans Systems (TCAD)*, 2022. 
