@@ -20,6 +20,19 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 * B.S. in Electrical Engineering, National Taiwan University, 2021
 * Ph.D in Computer Science, University of California, Los Angeles, Present
 
+## Publications
+  * **Wan-Hsuan Lin**, Jason Kimko, Bochen Tan, Nikolaj Bjorner, and Jason Cong, "Scalable Optimal Layout Synthesis for NISQ Quantum Processors," *Proceedings of ACM/IEEE Design Automation Conference (DAC)*, 2023
+  * **Wan-Hsuan Lin**, Bochen Tan, Murphy Yuezhen Niu, Jason Kimko, and Jason Cong, "Domain-Specific Quantum Architecture Optimization," *Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2022
+  * **Wan-Hsuan Lin**, Chia-Hsuan Su, and Jie-Hong Roland Jiang, "Language Equation Solving via Boolean Automata Manipulation," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022
+  * **Wan-Hsuan Lin**, Chia-Hsuan Su, and Jie-Hong Roland Jiang, "Language Equation Solving via Boolean Automata Manipulation," *International Workshop on Logic & Synthesis (IWLS)*, 2022. ***[Best Paper Nomination]***
+  * Wei-Hsiang Tseng, Chen-Hao Hsu, **Wan-Hsuan Lin**, and Yao-Wen Chang, "A Bridge-based Compression Algorithm for Topological Quantum Circuits," *IEEE Transactions on Computer-Aided Design of Integrated Circuits ans Systems (TCAD)*, 2022. 
+  * Chen-Hao Hsu, **Wan-Hsuan Lin**, Wei-Hsiang Tseng, and Yao-Wen Chang, "A Bridge-based Compression Algorithm for Topological Quantum Circuits," *Proceedings of ACM/IEEE Design Automation Conference (DAC)*, 2021. 
+  * Yu-Neng Wang, Yun-Rong Luo, Po-Chun Chien, Ping-Lun Wang, Hao-Ren Wang, **Wan-Hsuan Lin**, "Compatible Equivalence Checking of X-Valued Circuits," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2021. 
+
+## Teaching
+  * **Algorithms**, Undergraduate course, National Taiwan University, Electrical Engineering Department, 2020
+  * **Introduction to Electronic Design Automation**, Undergraduate course, National Taiwan University, Electrical Engineering Department, 2021
+
 ## Work experience
 * Jan. 2022 - Present: Graduate Student Researcher
   * VAST Lab, University of California, Los Angeles
@@ -42,19 +55,6 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 * College Student Research Creativity Award - *2021 Ministry of Science and Technology*
 * College Student Research Scholarship - *2020 Ministry of Science and Technology*
 * Macronix Science Scholarship - *2018 Macronix Education Foundation*
-
-## Publications
-  * **Wan-Hsuan Lin**, Jason Kimko, Bochen Tan, Nikolaj Bjorner, and Jason Cong, " “Scalable Optimal Layout Synthesis for NISQ Quantum Processors," *Proceedings of ACM/IEEE Design Automation Conference (DAC)*, 2023
-  * **Wan-Hsuan Lin**, Bochen Tan, Murphy Yuezhen Niu, Jason Kimko, and Jason Cong, " “Domain-Specific Quantum Architecture Optimization," *Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2022
-  * **Wan-Hsuan Lin**, Chia-Hsuan Su, and Jie-Hong Roland Jiang, "Language Equation Solving via Boolean Automata Manipulation," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022
-  * **Wan-Hsuan Lin**, Chia-Hsuan Su, and Jie-Hong Roland Jiang, "Language Equation Solving via Boolean Automata Manipulation," *International Workshop on Logic & Synthesis (IWLS)*, 2022. ***[Best Paper Nomination]***
-  * Wei-Hsiang Tseng, Chen-Hao Hsu, **Wan-Hsuan Lin**, and Yao-Wen Chang, "A Bridge-based Compression Algorithm for Topological Quantum Circuits," *IEEE Transactions on Computer-Aided Design of Integrated Circuits ans Systems (TCAD)*, 2022. 
-  * Chen-Hao Hsu, **Wan-Hsuan Lin**, Wei-Hsiang Tseng, and Yao-Wen Chang, "A Bridge-based Compression Algorithm for Topological Quantum Circuits," *Proceedings of ACM/IEEE Design Automation Conference (DAC)*, 2021. 
-  * Yu-Neng Wang, Yun-Rong Luo, Po-Chun Chien, Ping-Lun Wang, Hao-Ren Wang, **Wan-Hsuan Lin**, "Compatible Equivalence Checking of X-Valued Circuits," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2021. 
-
-## Teaching
-  * **Algorithms**, Undergraduate course, National Taiwan University, Electrical Engineering Department, 2020
-  * **Introduction to Electronic Design Automation**, Undergraduate course, National Taiwan University, Electrical Engineering Department, 2021
 
 ## Skills
 * Programming languages
