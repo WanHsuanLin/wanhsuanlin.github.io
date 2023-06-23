@@ -7,6 +7,6 @@ author: 'Wan-Hsuan Lin, Jason Kimko, Bochen Tan, Nikolaj Bjorner, and Jason Cong
 date: 2023-07-01
 venue: 'Proceedings of ACM/IEEE Design Automation Conference (DAC)'
 link: ''
-paperurl: 'http://wanhsuanlin.github.io/files/OLSQ2.pdf'
+paperurl: 'http://wanhsuanlin.github.io/files/DAC23_OLSQ2.pdf'
 ---
 
