@@ -66,7 +66,7 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 
 
 ## Talks
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
