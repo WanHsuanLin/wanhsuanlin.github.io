@@ -71,7 +71,7 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
   {% endfor %}</ul>
 
 ## Projects
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
