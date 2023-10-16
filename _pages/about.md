@@ -39,7 +39,7 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
   * Adivisor: Professor Jason Cong
 
 * Jun. 2019 - Nov. 2021: Undergraduate Research Student
-  * ALComb Lab, National Taiwan University
+  * ALCom Lab, National Taiwan University
   * Adivisor: Professor Jie-Hong R. Jiang
 
 * Feb. 2020 - Oct. 2021: Undergraduate Research Student
