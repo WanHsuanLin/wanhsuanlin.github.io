@@ -29,9 +29,14 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
   * Chen-Hao Hsu, **Wan-Hsuan Lin**, Wei-Hsiang Tseng, and Yao-Wen Chang, "A Bridge-based Compression Algorithm for Topological Quantum Circuits," *Proceedings of ACM/IEEE Design Automation Conference (DAC)*, 2021. 
   * Yu-Neng Wang, Yun-Rong Luo, Po-Chun Chien, Ping-Lun Wang, Hao-Ren Wang, **Wan-Hsuan Lin**, "Compatible Equivalence Checking of X-Valued Circuits," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2021. 
 
+## Peprints
+  * **Wan-Hsuan Lin** and Jason Cong, "ML-QLS: Multilevel Quantum Layout Synthesis," arXiv:2405.18371.
+  * Daniel Bochen Tan, **Wan-Hsuan Lin**, and Jason Cong, "Compilation for Dynamically Field-Programmable Qubit Arrays with Efficient and Provably Near-Optimal Scheduling," arXiv:2405.15095.
+  
 ## Teaching
-  * **Algorithms**, Undergraduate course, National Taiwan University, Electrical Engineering Department, 2020
+  * **CS 32: Introduction to Computer Science II**, Undergraduate course, UCLA, Computer Science Department, 2023
   * **Introduction to Electronic Design Automation**, Undergraduate course, National Taiwan University, Electrical Engineering Department, 2021
+  * **Algorithms**, Undergraduate course, National Taiwan University, Electrical Engineering Department, 2020
 
 ## Work experience
 * Jan. 2022 - Present: Graduate Student Researcher
