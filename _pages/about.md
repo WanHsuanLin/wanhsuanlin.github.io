@@ -18,9 +18,13 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 
 ## Education
 * B.S. in Electrical Engineering, National Taiwan University, 2021
+* M.S. in Computer Science, University of California, Los Angeles, 2024
 * Ph.D in Computer Science, University of California, Los Angeles, Present
 
 ## Publications
+  * Bochen Tan, **Wan-Hsuan Lin**, and Jason Cong, “Compilation for Dynamically Field-Programmable Qubit Arrays with Efficient and Provably Near-Optimal Scheduling,” in Proceedings of IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), 2025
+  * Chen-Chia Chang, **Wan-Hsuan Lin**, Jingyu Pan, Guanglei Zhou, Zhiyao Xie, Jiang Hu, and Yiran Chen, “PRICING: Privacy-Preserving Circuit Data Sharing for Lithographic Hotspot Detection,” in Proceedings of IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), 2025
+  * Atefeh Sohrabizadeh, **Wan-Hsuan Lin**, Bochen Tan, Madelyn Cain, Sheng-Tao Wang, Mikhail D. Lukin, and J. Cong, “GNN-Based Performance Prediction of Quantum Optimization of Maximum Independent Set,” in Proceedings of IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024.
   * **Wan-Hsuan Lin**, Jason Kimko, Bochen Tan, Nikolaj Bjorner, and Jason Cong, "Scalable Optimal Layout Synthesis for NISQ Quantum Processors," *Proceedings of ACM/IEEE Design Automation Conference (DAC)*, 2023
   * **Wan-Hsuan Lin**, Bochen Tan, Murphy Yuezhen Niu, Jason Kimko, and Jason Cong, "Domain-Specific Quantum Architecture Optimization," *Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2022
   * **Wan-Hsuan Lin**, Chia-Hsuan Su, and Jie-Hong Roland Jiang, "Language Equation Solving via Boolean Automata Manipulation," *Proceedings of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022
@@ -31,7 +35,6 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 
 ## Peprints
   * **Wan-Hsuan Lin** and Jason Cong, "ML-QLS: Multilevel Quantum Layout Synthesis," arXiv:2405.18371.
-  * Daniel Bochen Tan, **Wan-Hsuan Lin**, and Jason Cong, "Compilation for Dynamically Field-Programmable Qubit Arrays with Efficient and Provably Near-Optimal Scheduling," arXiv:2405.15095.
   
 ## Teaching
   * **CS 32: Introduction to Computer Science II**, Undergraduate course, UCLA, Computer Science Department, 2023
