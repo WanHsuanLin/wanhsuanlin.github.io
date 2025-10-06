@@ -22,7 +22,10 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 * Ph.D in Computer Science, University of California, Los Angeles, Present
 
 ## Publications
-  * Chen-Chia Chang, **Wan-Hsuan Lin**, Yikang Shen, Yiran Chen,  and Xin Zhang, “LaMAGIC2: Advanced Circuit Formulations for Language Model-Based Analog Topology Generation,” in *Proceedings of International Conference on Machine Learning (ICML)*, 2025
+  * Yannick Stade, **Wan-Hsuan Lin**, Jason Cong, Robert Wille, “Routing-Aware Placement for Zoned Neutral Atom-based Quantum Computing” in *Proceedings of IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2024.
+  * Jan Balewski, **Wan-Hsuan Lin**, Anupam Mitra, Milan Kornjača, Stefan Ostermann, Pedro L. S. Lopes, Daniel Bochen Tan, Jason Cong, “Compilation of QCrank Encoding Algorithm for a Dynamically Programmable Qubit Array Processor,” in *IEEE International Conference on Quantum Computing and Engineering (QCE 2025)*, 2025.
+  * Shuohao Ping, **Wan-Hsuan Lin**, Daniel Bochen Tan, Jason Cong. “Assessing Quantum Layout Synthesis Tools via Known Optimal-SWAP Cost Benchmarks,” in *62nd ACM/IEEE Design Automation Conference (DAC)*, 2025.
+  * Chen-Chia Chang, **Wan-Hsuan Lin**, Yikang Shen, Yiran Chen,  and Xin Zhang, “LaMAGIC2: Advanced Circuit Formulations for Language Model-Based Analog Topology Generation,” in *Proceedings of International Conference on Machine Learning (ICML)*, 2025.
   * **Wan-Hsuan Lin**, Jason Cong, "ML-QLS: Multilevel Quantum Layout Synthesis,” in *Proceedings of the 2025 International Symposium on Physical Design (ISPD)*, 2025.
   * **Wan-Hsuan Lin**, Daniel Bochen Tan, Jason Cong, "Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms,” in *Proceedings of IEEE International Symposium on High-Performance Computer Architecture (HPCA)*, 2025.
   * Bochen Tan, **Wan-Hsuan Lin**, and Jason Cong, “Compilation for Dynamically Field-Programmable Qubit Arrays with Efficient and Provably Near-Optimal Scheduling,” in *Proceedings of IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2025
@@ -55,6 +58,10 @@ I am a Ph.D. student affiliated with [VAST lab](https://vast.cs.ucla.edu) at the
 * Jan. 2022 - Present: Graduate Student Researcher
   * VAST Lab, University of California, Los Angeles
   * Adivisor: Professor Jason Cong
+
+* Jun. 2025 - Sep. 2025: Quantum Algorithm Engineer
+  * IBM
+  * Adivisor: Nate Earnest-Noble, Kevin Sung
 
 * Jun. 2019 - Nov. 2021: Undergraduate Research Student
   * ALCom Lab, National Taiwan University
